@@ -12,7 +12,6 @@ Users can register, login, search trains, book tickets, and view their bookings.
 - Search trains by source & destination  
 - Book tickets with seat availability check  
 - View user’s past bookings  
-- Admin panel (optional) to manage trains & bookings  
 
 ---
 
